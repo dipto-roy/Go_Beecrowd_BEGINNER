@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-var n = 3.14159
+const n = 3.14159
 
 func main() {
 
