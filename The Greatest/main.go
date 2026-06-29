@@ -7,7 +7,7 @@ import (
 
 func main() {
 	var a, b, c int
-	fmt.Scanf("%d %d %d", &a, &b, &c)
+	fmt.Scan(&a, &b, &c)
 
 	// max2 := func(x, y int) int {
 	// 	return (x + y + int(math.Abs(float64(x-y)))) / 2
